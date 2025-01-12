@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>I will build my new Portfolio site with React. Moving away from NodeJS.</h1>
       </header>
     </div>
   );
